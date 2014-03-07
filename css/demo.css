@@ -242,6 +242,13 @@ p.codrops-demos a.current-demo:hover{
 }
 #info h3{
 	text-align:right;
+	padding-right:7px;
+}
+#info a{
+	color:#ddd;
+}
+#info a:hover{
+	color:#fff;
 }
 #topic{
 	width:420px;
